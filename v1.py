@@ -4,6 +4,7 @@ def f1(a, b):
 
 
 def f2(a, b):
+    print("отработала функция умножения")
     return a * b
 
 
