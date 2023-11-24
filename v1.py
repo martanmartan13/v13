@@ -1,5 +1,5 @@
 def f1(a, b):
-    pass
+    return a+b
 
 
 def f2(a, b):
