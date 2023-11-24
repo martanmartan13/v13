@@ -7,7 +7,7 @@ def f2(a, b):
 
 
 def f3(a, b):
-    pass
+    return a-b
 
 
 print(f1(1, 2))
