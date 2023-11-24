@@ -3,7 +3,7 @@ def f1(a, b):
 
 
 def f2(a, b):
-    pass
+    return a * b
 
 
 def f3(a, b):
